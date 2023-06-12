@@ -1,0 +1,56 @@
+    1  sudo update
+    2  sudo su
+    3  sudo apt update
+    4  top
+    5  sudo su
+    6  su root
+    7  sudo su
+    8  sudo apt update
+    9  su root
+   10  sudo su
+   11  su root
+   12  sudo su
+   13  sudo apt update
+   14  code
+   15  exit
+   16  ping google.com
+   17  node --version
+   18  npm --version
+   19  node -v
+   20  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+   21  sudo dpkg --configure -a
+   22  node -v
+   23  npm -v
+   24  apt purge node
+   25  sudo apt purge node
+   26  sudo apt purge nodejs
+   27  node -v
+   28  npm -v
+   29  curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash - &&sudo apt-get install -y nodejs
+   30  node -v
+   31  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash - &&sudo apt-get install -y nodejs
+   32  sudo apt install nodejs
+   33  node -v
+   34  ls
+   35  cd Downloads/
+   36  ls
+   37  tar -xf node-v18.16.0-linux-x64.tar.xz 
+   38  ls
+   39  mv node-v18.16.0-linux-x64 ./nodejs
+   40  cd 
+   41  ls
+   42  cd Documents/
+   43  ls
+   44  cd
+   45  ls
+   46  cd Downloads/
+   47  ls
+   48  cd nodejs/
+   49  ls
+   50  cd bin
+   51  ls
+   52  ./node -v
+   53  cd
+   54  sudo nano .bashrc
+   55  exit
+   56  history >> commands_vm.txt
