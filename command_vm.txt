@@ -54,3 +54,25 @@
    54  sudo nano .bashrc
    55  exit
    56  history >> commands_vm.txt
+   57  git push
+   58  git --version
+   59  git init
+   60  git status
+   61  git add .
+   62  git remote -v
+   63  git remote add origin https://github.com/mir-owahed/git-test.git
+   64  git remote -v
+   65  git push -u origin master
+   66  git push -u origin main
+   67  git branch -M main
+   68  git push -u origin main
+   69  git remote -v
+   70  git config --global user.email
+   71  git commit -m "test commit"
+   72  git push -u origin main
+   73  git status
+   74  git add .
+   75  git status
+   76  git commit -m "2nd commit"
+   77  git push -u origin main
+   78  history > command_vm.txt
