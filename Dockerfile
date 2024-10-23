@@ -1,3 +1,5 @@
+# The following is the docker layer
+
 FROM node:lts-alpine3.18
 
 # Create app directory
