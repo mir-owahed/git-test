@@ -1,3 +1,4 @@
+    # history of the linux commands added
     1  sudo update
     2  sudo su
     3  sudo apt update
